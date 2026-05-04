@@ -13,35 +13,12 @@ Let's use Org-mode links to look-up Biblical verses!
 
 # Table of Contents
 
-1.  [Short Example](#Short-Example)
-2.  [Long Example](#Long-Example)
-3.  [Summary](#Summary)
+[Summary](#Summary)
     1.  [Installation Instructions](#Installation-Instructions)
     2.  [Bye!](#Bye)
 
 
-<a id="Short-Example"></a>
-
-# Short Example
-
-![img](images/short_example.png)
-
-
-<a id="Long-Example"></a>
-
-# Long Example
-
-![img](images/long_example.png)
-
-
-<a id="Summary"></a>
-
 # Summary
-
-> The full article may be read as
-> <a href="https://alhassy.github.io/holy-books/"><img src="https://img.shields.io/badge/-HTML-informational?logo=ghost"></a> &#x2014;or visit the
-> repo <a href="https://www.github.com/alhassy/holy-books/stars"><img src="https://img.shields.io/github/stars/alhassy/holy-books?style=social"></a> .
-
 
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
