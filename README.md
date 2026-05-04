@@ -1,4 +1,4 @@
-<h1> An Emacs interface to the Quran and the Bible: Org-mode links, tooltips, and Lisp look-ups </h1>
+<h1> An Emacs interface to the Bible: Org-mode links, tooltips, and Lisp look-ups </h1>
 
 <div align="center">
 
@@ -6,29 +6,7 @@
 
 <div align="center">
 
-
-
-
-
-
-<a href="https://github.com/alhassy/holy-books/blob/main/tests.el"><img src="https://github.com/alhassy/holy-books/actions/workflows/main.yml/badge.svg"></a>
-
-
-
-
-
-
-Let's use Org-mode links to look-up Quranic and Biblical verses!
-
-“Live” examples & documentation: <https://alhassy.github.io/holy-books/>
-
-<a href="https://github.com/alhassy/holy-books"><img src="https://img.shields.io/badge/holy--books-1.3-informational?logo=Gnu-Emacs"></a>
-
-<a href="https://twitter.com/intent/tweet?text=This looks super neat (•̀ᴗ•́)و::&url=https://github.com/alhassy/holy-books"><img src="https://img.shields.io/twitter/url?url=https://github.com/alhassy/holy-books"></a>
-<a href="https://github.com/alhassy/holy-books/issues"><img src="https://img.shields.io/badge/contributions-welcome-green?logo=nil"></a>
-
-<a href="https://alhassy.github.io/"><img src="https://img.shields.io/badge/author-musa_al--hassy-purple?logo=nintendo-3ds"></a>
-<a href="https://www.buymeacoffee.com/alhassy"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
+Let's use Org-mode links to look-up Biblical verses!
 
 </div>
 
